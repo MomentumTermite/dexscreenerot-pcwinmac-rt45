@@ -1,4 +1,4 @@
-# 
+# 即时 dexscreener sniper bot 插件 Mac OS版 | 终极 dexscreener sniper bot 插件 PC Windows版。集成 时间盗贼攻击 和 API集成，跨平台性能最大化。
 
 
 
